@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T20:25:35.497Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CsP4ADeD4YKln6t_w0bq" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T23:21:41.523Z" agent="5.0 (Windows)" etag="aFZiP9FqM8hUfqALSa8n" version="13.7.7" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="2984.5" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3336.5" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,14 +147,17 @@
         <mxCell id="5eIkmyX3lONirXPNNq0G-58" value="Entrega dos desafios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-197" y="369.75" width="92" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="itOtzSlTCxatpTuHLUj3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5eIkmyX3lONirXPNNq0G-62" target="itOtzSlTCxatpTuHLUj3-1">
+        <mxCell id="itOtzSlTCxatpTuHLUj3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5eIkmyX3lONirXPNNq0G-62" target="itOtzSlTCxatpTuHLUj3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-62" value="Recebimento das premiações e Mimos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-386" y="719.75" width="109" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="itOtzSlTCxatpTuHLUj3-1" value="FIM DO EVENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="itOtzSlTCxatpTuHLUj3-1" value="FIM DO EVENTO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-206" y="711.5" width="121" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBKwxIE3grrN7XyezUc7-1" value="Apresentação do TEMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1634" y="716.5" width="113" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
