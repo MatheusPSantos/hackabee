@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T23:21:41.523Z" agent="5.0 (Windows)" etag="aFZiP9FqM8hUfqALSa8n" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T00:41:21.059Z" agent="5.0 (Windows)" etag="IZJsPEeRdmWt4eiem26J" version="13.7.7" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="3336.5" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3600.5" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,13 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-12" value="Inscrição no evento por meio de um formulário" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1376" y="355" width="116" height="114" as="geometry" />
+          <mxGeometry x="-1341" y="388" width="116" height="114" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5eIkmyX3lONirXPNNq0G-14" target="5eIkmyX3lONirXPNNq0G-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-14" value="Recebimento&amp;nbsp; dos links necessários e do &lt;b&gt;Guia do Participante&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1172" y="343.25" width="131" height="113" as="geometry" />
+          <mxGeometry x="-1152" y="345" width="131" height="113" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5eIkmyX3lONirXPNNq0G-17" target="5eIkmyX3lONirXPNNq0G-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5eIkmyX3lONirXPNNq0G-22" value="Familiarização das ferramentas.&lt;br&gt;(capacitações)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5eIkmyX3lONirXPNNq0G-22" value="Familiarização das ferramentas.&lt;br&gt;(wrokshops)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-927" y="712.5" width="115" height="119" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5eIkmyX3lONirXPNNq0G-23" target="5eIkmyX3lONirXPNNq0G-30" edge="1">
@@ -73,7 +73,7 @@
         <mxCell id="5eIkmyX3lONirXPNNq0G-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5eIkmyX3lONirXPNNq0G-24" target="5eIkmyX3lONirXPNNq0G-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5eIkmyX3lONirXPNNq0G-24" value="Apresentação do TEMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="5eIkmyX3lONirXPNNq0G-24" value="&lt;div&gt;Apresentação&lt;/div&gt;&lt;div&gt; detalhada o TEMA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1644" y="706.5" width="113" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-29" value="Fase 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="5eIkmyX3lONirXPNNq0G-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5eIkmyX3lONirXPNNq0G-39" target="5eIkmyX3lONirXPNNq0G-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5eIkmyX3lONirXPNNq0G-39" value="Capacitações Relacionadas ao TEMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="5eIkmyX3lONirXPNNq0G-39" value="Fórums" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-619" y="347" width="114" height="118" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5eIkmyX3lONirXPNNq0G-41" target="5eIkmyX3lONirXPNNq0G-39" edge="1">
@@ -127,7 +127,7 @@
         <mxCell id="5eIkmyX3lONirXPNNq0G-54" value="Fase 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-671" y="217" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5eIkmyX3lONirXPNNq0G-56" value="Fase 4" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="5eIkmyX3lONirXPNNq0G-56" value="Fase 3" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-685" y="600" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5eIkmyX3lONirXPNNq0G-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5eIkmyX3lONirXPNNq0G-57" target="5eIkmyX3lONirXPNNq0G-62" edge="1">
@@ -157,7 +157,7 @@
           <mxGeometry x="-206" y="711.5" width="121" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="ZBKwxIE3grrN7XyezUc7-1" value="Apresentação do TEMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1634" y="716.5" width="113" height="130" as="geometry" />
+          <mxGeometry x="-1520" y="357" width="113" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
